@@ -1,7 +1,7 @@
 <div align="center">
 
 # Md. Mahfuj Ahmed Sizan
-### Civil & Environmental Engineer • Hydro-Geospatial & Remote Sensing Researcher
+### Civil & Environmental Engineer • Hydro-Geospatial & Earth Observation Researcher
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=WPJ9q9oAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6962--3942-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6962-3942)
@@ -13,40 +13,55 @@
 
 ---
 
-### 🔬 About Me
+### 🔬 Overview
 
-I am a Civil Engineering graduate and currently serve as a **Research Assistant** in the Department of Civil Engineering at HSTU, Bangladesh.
+I am a Civil Engineering graduate and Research Assistant in the Department of Civil Engineering at Hajee Mohammad Danesh Science & Technology University (HSTU), Bangladesh.
 
-My research focuses on bridging satellite earth observation, physical hydrology, and machine learning to investigate groundwater potential zones, flood management, atmospheric pollution, and climate change dynamics. I specialize in cloud-based spatial workflows in **Google Earth Engine (GEE)**, processing petabyte-scale multi-spectral and radar satellite archives (Landsat, Sentinel-1/2/5P, MODIS, VIIRS, CHIRPS) with supervised machine learning architectures (Random Forest, Support Vector Machines, Artificial Neural Networks, CA-Markov).
+My work integrates satellite earth observation, physical hydrology, and machine learning to evaluate groundwater potential zones, atmospheric pollution, rainfall variability, and land surface dynamics. I work primarily with Google Earth Engine (GEE), Python geospatial libraries, ArcGIS Pro, and supervised learning algorithms (Random Forest, SVM, ANN, and CA-Markov).
 
 - 📍 **Location:** Dhaka, Bangladesh
-- 🎯 **Current Focus:** Seeking PhD research opportunities in Civil & Environmental Engineering (Hydroinformatics, Water Resources, Remote Sensing & Flood Modeling).
+- 🎯 **Target:** PhD research opportunities in Civil & Environmental Engineering (Hydroinformatics, Water Resources, Remote Sensing, Flood Modeling).
 
 ---
 
-### 📂 Featured Research & Code Repositories
+### 🎓 Education
 
-| Repository | Research Scope & Artifacts | Data & Tech Stack | Access |
+- **B.Sc. in Civil Engineering** | CGPA: 3.39 / 4.00 (2020 – 2025)  
+  *Hajee Mohammad Danesh Science & Technology University (HSTU), Dinajpur, Bangladesh*  
+  - **Relevant Coursework:** Hydrology, Environmental Engineering, Irrigation & Flood Engineering, Fluid Mechanics, Engineering Geology.
+  - **Academic Thesis:** *Groundwater Potential Zone Mapping by Using Integrated GIS, Remote Sensing, and Machine Learning Techniques in Dinajpur*
+    - Evaluated groundwater potential zones across 15 conditioning factors (NDVI, LULC, soil type, lithology, rainfall, river distance, drainage density, slope, aspect, curvature, TWI, TPI, TRI, geology, groundwater level).
+    - Trained and benchmarked Random Forest (RF), Support Vector Machine (SVM), and Artificial Neural Network (ANN) architectures against field well data.
+
+---
+
+### 💼 Research & Professional Experience
+
+- **Research Assistant** | *Department of Civil Engineering, HSTU* `(2025 – Present)`
+  - Applied GIS, remote sensing, and machine learning to map sustainable groundwater potential zones.
+  - Processed multi-temporal satellite data (Sentinel-5P, Landsat, MODIS, VIIRS, CHIRPS) via Google Earth Engine.
+  - Evaluated spatiotemporal patterns of atmospheric pollutants, rainfall anomalies, land surface temperature (LST), and soil erosion.
+
+- **Image Annotator** | *ARC Annotation (Remote)* `(2026 – Present)`
+  - Geospatial annotation of transportation networks, building footprints, and land-use polygons.
+  - Attribute labeling and quality verification for spatial dataset compliance.
+
+---
+
+### 📂 Research Repositories & Data
+
+| Repository | Scope & Research Artifacts | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[groundwater-potential-mapping-research](https://github.com/mahfujsizan/groundwater-potential-mapping-research)** | Geospatial thematic parameter maps (22 high-resolution figures), ROC curves, prediction datasets, and machine learning models (RF, SVM, ANN) for groundwater potential zone evaluation in northwestern Bangladesh. | Python, Scikit-Learn, Pandas, ArcGIS, Matplotlib | Public |
-| **[environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)** | Earth observation workflows across Bangladesh: Sentinel-5P TROPOMI air quality pipelines, RUSLE soil erosion, Land Surface Temperature (LST) rasters, PM2.5 geo-rasters, Rangpur administrative shapefiles, and CA-Markov land-cover models. | JavaScript (GEE API), Python, GeoTIFF, Shapefiles | Public |
+| **[groundwater-potential-mapping-research](https://github.com/mahfujsizan/groundwater-potential-mapping-research)** | 22 thematic parameter maps, ROC curves, multi-model prediction datasets, and Python ML pipelines for groundwater potential zone evaluation in northwestern Bangladesh. | Python, Scikit-Learn, Pandas, ArcGIS, Matplotlib | Public |
+| **[environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)** | Google Earth Engine algorithms and GIS spatial datasets for Sentinel-5P TROPOMI air quality, RUSLE soil erosion, PM2.5 GeoTIFFs, Khulna LST rasters, Rangpur shapefiles, and CA-Markov models. | JavaScript (GEE API), Python, GeoTIFF, Shapefiles | Public |
 
 ---
 
-### 🛰️ Research Areas
-
-- **Groundwater Potential & Hydroinformatics:** Integrating multi-criteria spatial factors (drainage, geology, slope, rainfall, TWI, TRI) with supervised machine learning (RF, SVM, ANN) to map sustainable aquifer zones.
-- **Earth Observation & Google Earth Engine:** Developing automated cloud pipelines for drought hotspot detection, multi-year precipitation deviations, and land-use change.
-- **Atmospheric Pollution Monitoring:** Evaluating tropospheric trace gases ($NO_2$, $CO$, $SO_2$, $HCHO$) using Sentinel-5P TROPOMI and tracking $PM_{2.5}$ exceedances against WHO guidelines.
-- **Land Surface & Soil Dynamics:** Spatiotemporal modeling of Land Surface Temperature (LST), coastal salinity gradients, CA-Markov land-cover projections, and RUSLE soil erosion.
-
----
-
-### 📚 Selected Publications
+### 📚 Journal Publications
 
 1. **Assessment of Sustainable Groundwater Potential Zones Using GIS, Remote Sensing, and Machine Learning Techniques in Northwestern Region of Bangladesh**  
    *Sizan, M. M. A.*, Faruquee, A., Roy, S., Rahman, M. M., & Haque, M. R.  
-   **Big Data and Earth System** (Accepted for publication) • [SSRN Preprint](https://doi.org/10.2139/ssrn.5150537) • Code & Data: [groundwater-potential-mapping-research](https://github.com/mahfujsizan/groundwater-potential-mapping-research)
+   **Big Data and Earth System** *(Accepted for publication)* • [SSRN Preprint](https://doi.org/10.2139/ssrn.5150537) • Code & Maps: [groundwater-potential-mapping-research](https://github.com/mahfujsizan/groundwater-potential-mapping-research)
 
 2. **Sentinel-5P TROPOMI Data-Based Spatiotemporal Variations and Trends of Atmospheric Gaseous Pollutants in Dinajpur District, Bangladesh**  
    *Sizan, M. M. A.*, Rahman, M. M., Rasel, M. O. G., Sohan, M. S., & Nag, P. (2026)  
@@ -58,7 +73,7 @@ My research focuses on bridging satellite earth observation, physical hydrology,
 
 4. **Spatiotemporal Trends and WHO Guideline Exceedances of PM2.5 in Bangladesh**  
    Rahman, M. M., *Sizan, M. M. A.*, & Rasel, M. O. G. (2026)  
-   **Civil Engineering Beyond Limits**, 7(1), 11131 • [DOI: 10.36937/cebel.2026.11131](https://doi.org/10.36937/cebel.2026.11131) • Figures & Rasters: [environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)
+   **Civil Engineering Beyond Limits**, 7(1), 11131 • [DOI: 10.36937/cebel.2026.11131](https://doi.org/10.36937/cebel.2026.11131) • Data: [environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)
 
 5. **Investigating Spatiotemporal Patterns of Land Surface Temperature in Relation to Urbanization and Salinity in a Coastal District of Bangladesh**  
    Rasel, M. O. G., Rahman, M. M., & *Sizan, M. M. A.* (2026)  
@@ -70,30 +85,55 @@ My research focuses on bridging satellite earth observation, physical hydrology,
 
 ---
 
-### 💻 Technical Toolset
+### 🎤 Conference Proceedings & Presentations
+
+- **Spatio-Temporal Dynamics of Urban Expansion in a Northern District of Bangladesh Using VIIRS Night-Time Lights and MODIS Land Cover in Google Earth Engine**  
+  *18th International Conference on Engineering & Natural Sciences (ICENS)*, Kyrenia, TRNC (Nov 2025).
+- **Multi-Year Rainfall Deviation Analysis in Rangpur Division, Bangladesh Using CHIRPS Precipitation and Google Earth Engine**  
+  *EL RUHA 14th International Conference on Scientific Research*, Şanlıurfa, Türkiye (Dec 2025).
+- **Tracking PM2.5 Trends in Bangladesh (2017–2022): GHAP Insights and WHO Guideline Exceedances**  
+  *EL RUHA 14th International Conference on Scientific Research*, Şanlıurfa, Türkiye (Dec 2025).
+- **High-Resolution Drought Hotspot Mapping Using Sentinel-Based Composite Indices [Abstract]**  
+  *EL RUHA 14th International Conference on Scientific Research*, Şanlıurfa, Türkiye (Dec 2025).
+- **Machine Learning-Based Correlation Analysis of LULC and LST in a Commercial City of Bangladesh Using GIS and Remote Sensing**  
+  *Research Poster*, Centre for Advanced Research in Sciences and Information Technology (CARSIT), supervised by Prof. Dr. Karim Mohammed Rezaul.
+
+---
+
+### 💻 Technical Skills
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Geospatial & Remote Sensing** | Google Earth Engine (JS/Python), ArcGIS Pro, QGIS, TerrSet, Google Earth Pro, AutoCAD |
-| **Satellite Sensors & Data** | Sentinel-5P (TROPOMI), Sentinel-1 (SAR), Sentinel-2, Landsat (5/7/8/9), MODIS, VIIRS DNB, CHIRPS, SRTM DEM |
-| **Programming & Data Science** | Python (GeoPandas, Rasterio, Scikit-Learn, Matplotlib), R (Spatial Statistics, ggplot2), JavaScript |
-| **Modeling & Machine Learning** | Random Forest (RF), Support Vector Machines (SVM), Artificial Neural Networks (ANN), CA-Markov, AHP |
-| **Scientific Writing & Tools** | LaTeX, Git, GitHub, VS Code, Microsoft Office |
+| **Geospatial & Remote Sensing** | Google Earth Engine (JavaScript/Python API), ArcGIS Pro, QGIS, TerrSet, Google Earth Pro, AutoCAD |
+| **Satellite Sensors & Products** | Sentinel-5P (TROPOMI), Sentinel-1 (SAR), Sentinel-2, Landsat (5/7/8/9), MODIS, VIIRS DNB, CHIRPS, SRTM DEM |
+| **Programming & Data Science** | Python (GeoPandas, Rasterio, Scikit-Learn, Pandas, NumPy, Matplotlib), R (Spatial Statistics), JavaScript |
+| **Machine Learning & Modeling** | Random Forest (RF), Support Vector Machines (SVM), Artificial Neural Networks (ANN), CA-Markov, RUSLE |
 
 ---
 
-### 📊 GitHub Activity
+### 🏆 Scholarships, Leadership & Certifications
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfujsizan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mahfuj Sizan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujsizan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+- **General Merit Stipend** (2022 – 2025) — Hajee Mohammad Danesh Science & Technology University.
+- **Bangabandhu Student Scholarship** (2020 – 2024) — Bangladesh Freedom Fighter Welfare Trust.
+- **Networking Secretary** (2024 – 2025) — HSTU Research Society.
+- **Registered Volunteer** (2024 – 2025) — Bangladesh Red Crescent Society (HSTU Unit).
+- **Certifications:**
+  - Google Earth Engine for Remote Sensing & GIS Analysis (ResGeo Lab)
+  - ArcGIS Masterclass (ResGeo Lab)
+  - Statistical Analysis & Data Visualization with R (ResGeo Lab)
+  - Environmental Management System (EMS) ISO 14001:2015 (AJA Bangladesh Ltd.)
+  - Professional English Communication (Georgia Institute of Technology / Coursera)
 
 ---
 
-### 📬 Academic Contact
+### 📬 Academic References
 
-- **Email:** [mdmahfuj.sizan@gmail.com](mailto:mdmahfuj.sizan@gmail.com)
-- **Academic References:**
-  - **Md. Rashedul Haque** — Associate Professor & Thesis Supervisor, Dept. of Civil Engineering, HSTU (`rashed.civil@hstu.ac.bd`)
-  - **Md. Roknuzzaman** — Associate Professor, Dept. of Civil Engineering, HSTU / Visiting Scholar, Auburn University (`roni@auburn.edu`)
+- **Md. Rashedul Haque**  
+  Associate Professor & Thesis Supervisor, Department of Civil Engineering  
+  Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur-5200, Bangladesh  
+  Email: `rashed.civil@hstu.ac.bd` • Profile: [hstu.ac.bd/teacher/rhaque](https://hstu.ac.bd/teacher/rhaque)
+
+- **Md. Roknuzzaman**  
+  Associate Professor, Department of Civil Engineering, HSTU  
+  Visiting Scholar, Department of Civil and Environmental Engineering, Auburn University, USA  
+  Email: `roni@auburn.edu` • Profile: [hstu.ac.bd/teacher/roknuzzaman](https://hstu.ac.bd/teacher/roknuzzaman)
