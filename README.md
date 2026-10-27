@@ -24,6 +24,17 @@ My research focuses on bridging satellite earth observation, physical hydrology,
 
 ---
 
+### 📂 Featured Research & Code Repositories
+
+| Repository | Focus & Domain | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[groundwater-potential-ml](https://github.com/mahfujsizan/groundwater-potential-ml)** | Multi-criteria groundwater potential zone modeling comparing Random Forest, SVM, and ANN algorithms across Northwestern Bangladesh. | Python, Scikit-Learn, Pandas, GIS | Public |
+| **[gee-environmental-earth-observation](https://github.com/mahfujsizan/gee-environmental-earth-observation)** | Automated Google Earth Engine workflows for Sentinel-5P TROPOMI air pollution ($NO_2, CO, SO_2$), RUSLE soil erosion, drought indices, and Landsat LST. | JavaScript, GEE API, Python | Public |
+| **[DRAINAGE_DENSITY](https://github.com/mahfujsizan/DRAINAGE_DENSITY)** | Hydrological line density rasters and multi-scale sensitivity analysis (200m, 500m, 2000m search radii) for groundwater recharge evaluation. | ArcGIS Spatial Analyst, Rasters | Public |
+| **[DhakaShapeFile](https://github.com/mahfujsizan/DhakaShapeFile)** | Geographic vector boundary shapefile for Dhaka District, Bangladesh (WGS 84 / EPSG:4326) for hydrological and urban modeling. | ESRI Shapefile, GeoPandas, QGIS | Public |
+
+---
+
 ### 🛰️ Research Areas
 
 - **Groundwater Potential & Hydroinformatics:** Integrating multi-criteria spatial factors (drainage, geology, slope, rainfall, TWI, TRI) with supervised machine learning (RF, SVM, ANN) to map sustainable aquifer zones.
@@ -37,15 +48,15 @@ My research focuses on bridging satellite earth observation, physical hydrology,
 
 1. **Assessment of Sustainable Groundwater Potential Zones Using GIS, Remote Sensing, and Machine Learning Techniques in Northwestern Region of Bangladesh**  
    *Sizan, M. M. A.*, Faruquee, A., Roy, S., Rahman, M. M., & Haque, M. R.  
-   **Big Data and Earth System** (Accepted for publication) • [SSRN Preprint](https://doi.org/10.2139/ssrn.5150537)
+   **Big Data and Earth System** (Accepted for publication) • [SSRN Preprint](https://doi.org/10.2139/ssrn.5150537) • Code: [groundwater-potential-ml](https://github.com/mahfujsizan/groundwater-potential-ml)
 
 2. **Sentinel-5P TROPOMI Data-Based Spatiotemporal Variations and Trends of Atmospheric Gaseous Pollutants in Dinajpur District, Bangladesh**  
    *Sizan, M. M. A.*, Rahman, M. M., Rasel, M. O. G., Sohan, M. S., & Nag, P. (2026)  
-   **International Journal of Engineering and Geosciences (IJEG)**, 11(3), 701–721 • [DOI: 10.26833/ijeg.1841881](https://doi.org/10.26833/ijeg.1841881)
+   **International Journal of Engineering and Geosciences (IJEG)**, 11(3), 701–721 • [DOI: 10.26833/ijeg.1841881](https://doi.org/10.26833/ijeg.1841881) • Code: [gee-environmental-earth-observation](https://github.com/mahfujsizan/gee-environmental-earth-observation)
 
 3. **GEE-Based Spatiotemporal Analysis of Rainfall Variability and Soil Erosion in Northern Bangladesh**  
    *Sizan, Md. M. A.*, Rahman, M., & Osman, R. (2026)  
-   **International Journal of Environment and Geoinformatics (IJEGEO)**, 13, 1–17 • [DOI: 10.26650/ijegeo.1955541](https://doi.org/10.26650/ijegeo.1955541)
+   **International Journal of Environment and Geoinformatics (IJEGEO)**, 13, 1–17 • [DOI: 10.26650/ijegeo.1955541](https://doi.org/10.26650/ijegeo.1955541) • Code: [gee-environmental-earth-observation](https://github.com/mahfujsizan/gee-environmental-earth-observation)
 
 4. **Investigating Spatiotemporal Patterns of Land Surface Temperature in Relation to Urbanization and Salinity in a Coastal District of Bangladesh**  
    Rasel, M. O. G., Rahman, M. M., & *Sizan, M. M. A.* (2026)  
