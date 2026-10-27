@@ -3,7 +3,6 @@
 # Md. Mahfuj Ahmed Sizan
 ### Civil & Environmental Engineer • Hydro-Geospatial & Remote Sensing Researcher
 
-[![Website](https://img.shields.io/badge/Academic_Site-mahfujsizan.github.io-0284c7?style=flat&logo=googlechrome&logoColor=white)](https://mahfujsizan.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=WPJ9q9oAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6962--3942-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6962-3942)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Mahfuj-Sizan)
@@ -20,7 +19,6 @@ I am a Civil Engineering graduate (B.Sc., CGPA: 3.39/4.00, Hajee Mohammad Danesh
 
 My research focuses on bridging satellite earth observation, physical hydrology, and machine learning to investigate groundwater potential zones, flood management, atmospheric pollution, and climate change dynamics. I specialize in cloud-based spatial workflows in **Google Earth Engine (GEE)**, processing petabyte-scale multi-spectral and radar satellite archives (Landsat, Sentinel-1/2/5P, MODIS, VIIRS, CHIRPS) with supervised machine learning architectures (Random Forest, Support Vector Machines, Artificial Neural Networks, CA-Markov).
 
-- 🌐 **Academic Portfolio & CV:** [mahfujsizan.github.io](https://mahfujsizan.github.io/)
 - 📍 **Location:** Dhaka, Bangladesh
 - 🎯 **Current Focus:** Seeking PhD research opportunities in Civil & Environmental Engineering (Hydroinformatics, Water Resources, Remote Sensing & Flood Modeling).
 
@@ -83,7 +81,6 @@ My research focuses on bridging satellite earth observation, physical hydrology,
 ### 📬 Academic Contact
 
 - **Email:** [mdmahfuj.sizan@gmail.com](mailto:mdmahfuj.sizan@gmail.com)
-- **Academic Website:** [https://mahfujsizan.github.io/](https://mahfujsizan.github.io/)
 - **Academic References:**
   - **Md. Rashedul Haque** — Associate Professor & Thesis Supervisor, Dept. of Civil Engineering, HSTU (`rashed.civil@hstu.ac.bd`)
   - **Md. Roknuzzaman** — Associate Professor, Dept. of Civil Engineering, HSTU / Visiting Scholar, Auburn University (`roni@auburn.edu`)
