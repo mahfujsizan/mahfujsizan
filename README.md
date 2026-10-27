@@ -1,7 +1,7 @@
 <div align="center">
 
 # Md. Mahfuj Ahmed Sizan
-### Geospatial Data Scientist & Earth Observation Researcher
+### Geospatial Data Analyst & Environmental Researcher
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=WPJ9q9oAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6962--3942-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6962-3942)
