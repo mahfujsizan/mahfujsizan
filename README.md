@@ -15,7 +15,7 @@
 
 ### 🔬 About Me
 
-I am a Civil Engineering graduate (B.Sc., CGPA: 3.39/4.00, Hajee Mohammad Danesh Science & Technology University) and currently serve as a **Research Assistant** in the Department of Civil Engineering at HSTU, Bangladesh.
+I am a Civil Engineering graduate and currently serve as a **Research Assistant** in the Department of Civil Engineering at HSTU, Bangladesh.
 
 My research focuses on bridging satellite earth observation, physical hydrology, and machine learning to investigate groundwater potential zones, flood management, atmospheric pollution, and climate change dynamics. I specialize in cloud-based spatial workflows in **Google Earth Engine (GEE)**, processing petabyte-scale multi-spectral and radar satellite archives (Landsat, Sentinel-1/2/5P, MODIS, VIIRS, CHIRPS) with supervised machine learning architectures (Random Forest, Support Vector Machines, Artificial Neural Networks, CA-Markov).
 
