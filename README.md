@@ -26,12 +26,10 @@ My research focuses on bridging satellite earth observation, physical hydrology,
 
 ### 📂 Featured Research & Code Repositories
 
-| Repository | Focus & Domain | Tech Stack | Status |
+| Repository | Research Scope & Artifacts | Data & Tech Stack | Access |
 | :--- | :--- | :--- | :--- |
-| **[groundwater-potential-ml](https://github.com/mahfujsizan/groundwater-potential-ml)** | Multi-criteria groundwater potential zone modeling comparing Random Forest, SVM, and ANN algorithms across Northwestern Bangladesh. | Python, Scikit-Learn, Pandas, GIS | Public |
-| **[gee-environmental-earth-observation](https://github.com/mahfujsizan/gee-environmental-earth-observation)** | Automated Google Earth Engine workflows for Sentinel-5P TROPOMI air pollution ($NO_2, CO, SO_2$), RUSLE soil erosion, drought indices, and Landsat LST. | JavaScript, GEE API, Python | Public |
-| **[DRAINAGE_DENSITY](https://github.com/mahfujsizan/DRAINAGE_DENSITY)** | Hydrological line density rasters and multi-scale sensitivity analysis (200m, 500m, 2000m search radii) for groundwater recharge evaluation. | ArcGIS Spatial Analyst, Rasters | Public |
-| **[DhakaShapeFile](https://github.com/mahfujsizan/DhakaShapeFile)** | Geographic vector boundary shapefile for Dhaka District, Bangladesh (WGS 84 / EPSG:4326) for hydrological and urban modeling. | ESRI Shapefile, GeoPandas, QGIS | Public |
+| **[groundwater-potential-mapping-research](https://github.com/mahfujsizan/groundwater-potential-mapping-research)** | Geospatial thematic parameter maps (22 high-resolution figures), ROC curves, prediction datasets, and machine learning models (RF, SVM, ANN) for groundwater potential zone evaluation in northwestern Bangladesh. | Python, Scikit-Learn, Pandas, ArcGIS, Matplotlib | Public |
+| **[environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)** | Earth observation workflows across Bangladesh: Sentinel-5P TROPOMI air quality pipelines, RUSLE soil erosion, Land Surface Temperature (LST) rasters, PM2.5 geo-rasters, Rangpur administrative shapefiles, and CA-Markov land-cover models. | JavaScript (GEE API), Python, GeoTIFF, Shapefiles | Public |
 
 ---
 
@@ -48,23 +46,27 @@ My research focuses on bridging satellite earth observation, physical hydrology,
 
 1. **Assessment of Sustainable Groundwater Potential Zones Using GIS, Remote Sensing, and Machine Learning Techniques in Northwestern Region of Bangladesh**  
    *Sizan, M. M. A.*, Faruquee, A., Roy, S., Rahman, M. M., & Haque, M. R.  
-   **Big Data and Earth System** (Accepted for publication) • [SSRN Preprint](https://doi.org/10.2139/ssrn.5150537) • Code: [groundwater-potential-ml](https://github.com/mahfujsizan/groundwater-potential-ml)
+   **Big Data and Earth System** (Accepted for publication) • [SSRN Preprint](https://doi.org/10.2139/ssrn.5150537) • Code & Data: [groundwater-potential-mapping-research](https://github.com/mahfujsizan/groundwater-potential-mapping-research)
 
 2. **Sentinel-5P TROPOMI Data-Based Spatiotemporal Variations and Trends of Atmospheric Gaseous Pollutants in Dinajpur District, Bangladesh**  
    *Sizan, M. M. A.*, Rahman, M. M., Rasel, M. O. G., Sohan, M. S., & Nag, P. (2026)  
-   **International Journal of Engineering and Geosciences (IJEG)**, 11(3), 701–721 • [DOI: 10.26833/ijeg.1841881](https://doi.org/10.26833/ijeg.1841881) • Code: [gee-environmental-earth-observation](https://github.com/mahfujsizan/gee-environmental-earth-observation)
+   **International Journal of Engineering and Geosciences (IJEG)**, 11(3), 701–721 • [DOI: 10.26833/ijeg.1841881](https://doi.org/10.26833/ijeg.1841881) • Code & Rasters: [environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)
 
 3. **GEE-Based Spatiotemporal Analysis of Rainfall Variability and Soil Erosion in Northern Bangladesh**  
    *Sizan, Md. M. A.*, Rahman, M., & Osman, R. (2026)  
-   **International Journal of Environment and Geoinformatics (IJEGEO)**, 13, 1–17 • [DOI: 10.26650/ijegeo.1955541](https://doi.org/10.26650/ijegeo.1955541) • Code: [gee-environmental-earth-observation](https://github.com/mahfujsizan/gee-environmental-earth-observation)
+   **International Journal of Environment and Geoinformatics (IJEGEO)**, 13, 1–17 • [DOI: 10.26650/ijegeo.1955541](https://doi.org/10.26650/ijegeo.1955541) • Code: [environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)
 
-4. **Investigating Spatiotemporal Patterns of Land Surface Temperature in Relation to Urbanization and Salinity in a Coastal District of Bangladesh**  
+4. **Spatiotemporal Trends and WHO Guideline Exceedances of PM2.5 in Bangladesh**  
+   Rahman, M. M., *Sizan, M. M. A.*, & Rasel, M. O. G. (2026)  
+   **Civil Engineering Beyond Limits**, 7(1), 11131 • [DOI: 10.36937/cebel.2026.11131](https://doi.org/10.36937/cebel.2026.11131) • Figures & Rasters: [environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)
+
+5. **Investigating Spatiotemporal Patterns of Land Surface Temperature in Relation to Urbanization and Salinity in a Coastal District of Bangladesh**  
    Rasel, M. O. G., Rahman, M. M., & *Sizan, M. M. A.* (2026)  
-   **Brilliant Engineering**, 7(4) • [DOI: 10.36937/ben.2026.41138](https://doi.org/10.36937/ben.2026.41138)
+   **Brilliant Engineering**, 7(4) • [DOI: 10.36937/ben.2026.41138](https://doi.org/10.36937/ben.2026.41138) • Rasters: [environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)
 
-5. **Land Use and Land Cover Dynamics in Dinajpur District: Spatio-Temporal Trends and Future Scenario Using Google Earth Engine and CA-Markov Modeling**  
+6. **Land Use and Land Cover Dynamics in Dinajpur District: Spatio-Temporal Trends and Future Scenario Using Google Earth Engine and CA-Markov Modeling**  
    *Sizan, Md. M. A.*, Rahman, M., & Osman, R. (2026)  
-   **International Journal of Engineering Technologies (IJET)**, 11, 38–47 • [DOI: 10.19072/ijet.1889792](https://doi.org/10.19072/ijet.1889792)
+   **International Journal of Engineering Technologies (IJET)**, 11, 38–47 • [DOI: 10.19072/ijet.1889792](https://doi.org/10.19072/ijet.1889792) • Scripts: [environmental-remote-sensing-bangladesh](https://github.com/mahfujsizan/environmental-remote-sensing-bangladesh)
 
 ---
 
